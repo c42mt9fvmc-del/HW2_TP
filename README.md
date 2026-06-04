@@ -23,7 +23,7 @@ pip install -r requirements.txt
 pytest -v
 
 Запуск кода:
-python3 recipes.py
+python3 main.py
 
 
 Автор:
